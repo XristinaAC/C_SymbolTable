@@ -1,3 +1,5 @@
+Exercise fulfilled during a University course about software basics. 
+
 The exercise creates an abstract data type (ADT) called SymTable. Each copy (instance) of SymTable ADT will be a symbol table. The SymTable ADT is designed to be "general", which means the values ​​to be void pointers, and therefore to be able to show in data of any type.
 
 Two implementations of SymTable ADT are created: an implementation that uses an interconnected one
